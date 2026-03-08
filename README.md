@@ -1,6 +1,8 @@
 # CoinMiningBot
 Coin Mine system discord bot.
 
+Coin System: https://github.com/FoxUshiha/DC-Coin-Bot
+
 Dependencies:
 
 ```
